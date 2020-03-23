@@ -1,2 +1,4 @@
 # helloworld
-Short desciption
+
+Hello :) 
+I am Rafał. I like Java.
